@@ -16,3 +16,8 @@ That being said, I wanted to design a system that mimics the way plants express 
 The plant bot should display relevant info at a glance while allowing the user to dive deeper into trends, and integrate into organization tools so you don't have to even think to open it.
 
 System design and graphic design displayed in images below.
+
+## Images
+![System Design](https://github.com/plant-bot/.github/blob/main/img/figjam_board.png "System Design done in FigJam")
+
+![Graphic Design](https://github.com/plant-bot/.github/blob/main/img/landingpage.png "Graphic Design done in Figma")
